@@ -1,0 +1,15 @@
+body,html{
+	height: 100%;
+	margin: 0;
+	background-image: url("hostel7.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	font-family: "Verdana", Verdana, sans-serif;
+	color: rgb(153, 102, 255);
+}
