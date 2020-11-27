@@ -1,4 +1,4 @@
-# EasyHost
+# Hostella
 
 ## Installation
 1. Install Apache
